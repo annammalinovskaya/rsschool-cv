@@ -38,5 +38,5 @@ console.log(fizzBuzz(15))
 
 ## Languages
 
-- Englishsss (Pre-Intermediate)
+- English (Pre-Intermediate)
 - Russian (Native)
